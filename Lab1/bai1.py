@@ -9,8 +9,6 @@ class Employee:
     
     def tell_position(self):
         return 'I am ' + self.position
-
-
 # snake case: get_name
 # camel case: getName
 
